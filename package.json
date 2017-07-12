@@ -1,0 +1,15 @@
+{
+  "name": "reverse-words-kata.js",
+  "version": "1.0.0",
+  "description": "Reverse words Kata in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha reverse-words.js"
+  },
+  "author": "Nacho García",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
